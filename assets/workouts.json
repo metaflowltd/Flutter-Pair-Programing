@@ -24,10 +24,6 @@
     "image":"assets/images/types/running.png"
   },
   {
-    "name":"basketball",
-    "image":"assets/images/types/basketball.png"
-  },
-  {
     "name":"football",
     "image":"assets/images/types/football.png"
   },
